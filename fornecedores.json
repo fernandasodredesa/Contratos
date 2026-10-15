@@ -1,0 +1,277 @@
+{
+  "obra": "TECON Salvador",
+  "consorcio": "Consórcio Santa Dulce",
+  "atualizado_em": "2026-10-15",
+  "fornecedores": [
+    {
+      "numero": 1,
+      "fornecedor": "BELOV - BATIMETRIA",
+      "atividade": "Levantamento batimétrico",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 2,
+      "fornecedor": "CANTEIRO",
+      "atividade": "Construção do canteiro",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Assinado",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 3,
+      "fornecedor": "CASE BY CASE",
+      "atividade": "Consultoria projeto estrutural",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Sem contrato - somente proposta",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 4,
+      "fornecedor": "CLATHOM",
+      "atividade": "Serviço de Engenheiro Eletricista",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-19"
+    },
+    {
+      "numero": 5,
+      "fornecedor": "EXE ENGENHARIA",
+      "atividade": "Elaboração de projeto",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 6,
+      "fornecedor": "FACILITAS ENGENHARIA",
+      "atividade": "Instalações elétricas, hidrossan., SPDA",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Assinado",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 7,
+      "fornecedor": "GEOSEA SONDAGENS",
+      "atividade": "Sondagens geotécnicas",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Assinado",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 8,
+      "fornecedor": "JBRIM CONSULTORIA",
+      "atividade": "Consultoria - Vistoria cautelar",
+      "status_proposta": "In hold",
+      "pendencia_proposta": "-",
+      "status_contrato": "In hold",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 9,
+      "fornecedor": "LEPC - PROF. LUIS EDMUNDO",
+      "atividade": "Consultoria - Geotecnia",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Contratada",
+      "prazo_limite": null
+    },
+    {
+      "numero": 10,
+      "fornecedor": "MG CONSTRUÇÕES",
+      "atividade": "Serviços de construção civil - Demolição",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Sem contrato - somente proposta",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 11,
+      "fornecedor": "NAUTICA DRAGAGEM",
+      "atividade": "Dragagem",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Assinado",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 12,
+      "fornecedor": "PENIEL TENDAS",
+      "atividade": "Locação e montagem de tendas",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Assinado",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 13,
+      "fornecedor": "PROFITTO",
+      "atividade": "Administração contratual",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-15"
+    },
+    {
+      "numero": 14,
+      "fornecedor": "SARAIVA GUINDASTES",
+      "atividade": "Locação de guindastes / içamento de cargas",
+      "status_proposta": "Em assinatura",
+      "pendencia_proposta": "Diretoria Belov",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Engenharia CSD",
+      "prazo_limite": "2026-10-15"
+    },
+    {
+      "numero": 15,
+      "fornecedor": "SONDOSOLO",
+      "atividade": "Sondagem de solo",
+      "status_proposta": "Em assinatura",
+      "pendencia_proposta": "Diretoria Belov",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Contratada",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 16,
+      "fornecedor": "SUPERMIX",
+      "atividade": "Fornecimento de concreto usinado",
+      "status_proposta": "Pendência Contrato",
+      "pendencia_proposta": "Pendência Contrato",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-15"
+    },
+    {
+      "numero": 17,
+      "fornecedor": "TRACTOR",
+      "atividade": "Terraplanagem",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 18,
+      "fornecedor": "VECTTOR",
+      "atividade": "Consultoria - Geotecnia",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Assinado",
+      "pendencia_contrato": "-",
+      "prazo_limite": null
+    },
+    {
+      "numero": 19,
+      "fornecedor": "WOSNIAK",
+      "atividade": "Consultoria - CQP",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 20,
+      "fornecedor": "NAUTICA LOCAÇÃO",
+      "atividade": "Locação de guinchos e spuds",
+      "status_proposta": "Em assinatura",
+      "pendencia_proposta": "Ger. Engenharia",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 21,
+      "fornecedor": "ATENA FUNDAÇÕES",
+      "atividade": "Serviço de perfuração de estacas",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 22,
+      "fornecedor": "EDMAR SERVIÇOS MARÍTIMOS",
+      "atividade": "Locação de lancha",
+      "status_proposta": "Em assinatura",
+      "pendencia_proposta": "Ger. Engenharia",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Engenharia CSD",
+      "prazo_limite": "2026-10-15"
+    },
+    {
+      "numero": 23,
+      "fornecedor": "CAMORIM",
+      "atividade": "Locação de balsas",
+      "status_proposta": "Em assinatura",
+      "pendencia_proposta": "Ger. Contrato",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Engenharia CSD",
+      "prazo_limite": "2026-10-15"
+    },
+    {
+      "numero": 24,
+      "fornecedor": "AXXIS",
+      "atividade": "Serviço de controle tecnológico",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "Ger. Contrato",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 25,
+      "fornecedor": "FORNECIMENTO GERDAU",
+      "atividade": "Fornecimento de aço CA 50",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Engenharia CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 26,
+      "fornecedor": "FORNECIMENTO ARCELOR",
+      "atividade": "Fornecimento de camisas metálicas",
+      "status_proposta": "Assinado",
+      "pendencia_proposta": "-",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Engenharia CSD",
+      "prazo_limite": "2026-10-16"
+    },
+    {
+      "numero": 27,
+      "fornecedor": "CAVALO MARINHO",
+      "atividade": "Fornecimento de óleo diesel",
+      "status_proposta": "Pendência Contrato",
+      "pendencia_proposta": "Pendência Contrato",
+      "status_contrato": "Elaboração Minuta Contratual",
+      "pendencia_contrato": "Jurídico CSD",
+      "prazo_limite": "2026-10-16"
+    }
+  ]
+}
